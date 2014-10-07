@@ -1,5 +1,26 @@
 /* Your Website Styles */
 
+body {
+	background: url("../img/bg.png.png") #1D5158;
+}
+
+h1	{
+	font-family: 'Lobster', cursive;
+	color: #1D5158;
+	font-size: italic;
+	
+	background: red;
+	padding: 10px;
+	border: 10px black double;
+	width: 300px;
+	margin: 10px;
+
+}
+
+p {
+	line-height: 36px;
+
+}
 
 /* Show Grid */
 .showgrid {
